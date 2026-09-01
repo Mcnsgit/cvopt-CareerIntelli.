@@ -1,0 +1,6 @@
+{
+  "name": "cvopt - Career Intelligence",
+  "description": "Personal CV Optimizer & Automated Job Finder",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
